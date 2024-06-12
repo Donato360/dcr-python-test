@@ -1,0 +1,34 @@
+{
+    "regions": [
+        {
+            "name": "Asia",
+            "number_countries": 50,
+            "total_population": 4386254784
+        },
+        {
+            "name": "Europe",
+            "number_countries": 53,
+            "total_population": 746688182
+        },
+        {
+            "name": "Africa",
+            "number_countries": 60,
+            "total_population": 1185705747
+        },
+        {
+            "name": "Oceania",
+            "number_countries": 27,
+            "total_population": 40169837
+        },
+        {
+            "name": "Americas",
+            "number_countries": 57,
+            "total_population": 990317681
+        },
+        {
+            "name": "Polar",
+            "number_countries": 1,
+            "total_population": 1000
+        }
+    ]
+}
